@@ -1,10 +1,11 @@
 # Java Study
 <br/> 
-혼자 삽질하면서 공부하는 자바 -> 나중에 스프링으로 발전할 예정(아닐 수도..)  
+혼자 삽질하면서 공부하는 스프링
 
-스프링 강의 - [ 링크 ]( https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#curriculum )
-<br/> 
-*실시간으로 커리 수정될 수 있습니다
+스프링 강의 - [ 인프런 ]( https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#curriculum )<br />
+자바 기초 문법 강의 - [ 점프 투 자바 ](https://wikidocs.net/book/31) , [ 링크 ](https://dinfree.com/lecture/language/112_java_1.html)
+<br/> <br/> 
+실시간으로 커리 수정될 수 있습니다.
 <br/> 
 ### Curriculum
 
